@@ -7,6 +7,7 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.document_loaders import DataFrameLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 import pandas as pd
+from langfuse import Langfuse 
 
 # Загрузка переменных окружения
 load_dotenv()
