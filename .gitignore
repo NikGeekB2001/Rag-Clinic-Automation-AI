@@ -3,3 +3,20 @@
 
 # Virtual environments
 venv/
+
+# Python кэш
+__pycache__/
+
+# Тесты
+tests/
+
+# Объемы (volumes)
+volumes/
+
+# Стиль
+style
+
+# Srtemlit
+del_app copy
+
+test_search
